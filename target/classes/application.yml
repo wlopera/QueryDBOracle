@@ -1,0 +1,8 @@
+server.port: 8585
+
+oracle:
+  host: 192.168.251.96
+  port: 1521
+  dbName: PROLINUX
+  user: SRV_OLEGPROBD
+  password: SRV_OLEGPROBD
